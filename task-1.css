@@ -1,0 +1,29 @@
+.container{
+	width: 100%;
+	padding-bottom: 100%;
+	margin: 0 auto;
+}
+.div1{
+	float: left;
+	width: 31%;
+	margin: 1%;
+	padding-bottom: 31%;
+	background: #FFA500;
+	border-radius: 15%;
+}
+.btn1{
+	width: 100%;
+	margin-top: 1rem;
+	padding: .5rem 0;
+	color: #FFA500;
+	font-size: 2rem;
+	font-family: "黑体";
+	border: 1px solid #FFA500;
+	border-radius: .5rem;
+	background-color: #fff;
+}
+.btn1:hover,
+.btn1:active{
+	color: #fff;
+	background-color: #FFA500;
+}
